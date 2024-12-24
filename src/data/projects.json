@@ -1,0 +1,51 @@
+[{
+    "title": "Path Finder", 
+    "links": [
+      ["Pathfinder", "https://path-search-visualizer-jasonchen272s-projects.vercel.app/"],
+      ["Github", "https://github.com/Jasonchen272/Path-Search-Visualizer"]
+    ],
+    "image": "/pathfinder.png",
+    "date": "June 2024 - August 2024",
+    "languages": ["JavaScript", "React"],
+    "description": ["A visualization of the search path, including shortest path, through a customizable maze. The visualizer showcases the logic of A*, Dijskstra, BFS, and DFS searches. "]
+    },
+    {
+      "title": "Drone Simulation",
+      "links": [
+        ["Docker", "https://hub.docker.com/r/jchen8/final_drone_sim"]
+      ],
+      "image": "/dronesim.png",
+      "date": "January 2024 - May 2024",
+      "languages": ["C++"],
+    "description": ["A simulation of a drone delivery system on the UMN Campus, incorporating realistic aspects such as package theft and drone battery management. "]
+
+    },
+    {
+      "title": "Face Mask Detector",
+      "links": [
+        ["Github", "https://github.com/Jasonchen272/Face-Mask-Detector"]
+      ],
+      "image": "/facemask.png",
+      "date": "July 2024 - August 2024",
+      "languages": ["Python", "TensorFlow"],
+    "description": ["Identifies if the subject in a picture is wearing a mask correctly or wearing a mask at all. Achieved 99% accuracy in predictions. "]
+    }, 
+    {
+        "title": "Spotify Playlists Generator",
+        "links": [
+            ["Github", "https://github.com/Jasonchen272/Spotify-Playlists"]
+        ],
+        "image": "/SpotifyPlaylist.png",
+        "date": "June 2024 - August 2024",
+        "languages": ["JavaScript", "React"],
+        "description":["Generates a recommended playlist by inputting your favorite song or artist and uses Spotify's API to add the playlist directly to your account."]
+    },
+    {
+        "title": "Sudoku Solver",
+        "links": [],
+        "image": "/Sudoku.png",
+        "date": "July 2023 - August 2023",
+        "languages": ["JavaScript", "HTML", "CSS"],
+        "description": ["An app for playing Sudoku that also solves puzzles for you if needed. It employs backtracking to solve the puzzles and visualizes each step of the process."]
+    }
+]
